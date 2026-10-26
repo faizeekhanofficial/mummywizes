@@ -1,0 +1,453 @@
+@media (max-width: 1200px) {
+    .item .read-more-icon {
+
+        gap: 5px;
+    }
+
+    .trending-wizes .item .main-read-more a i {
+        font-size: 10px;
+        color: #666666;
+        margin-right: 1px;
+    }
+
+    .global-wizes .item .content h6 {
+        font-size: 17px;
+
+    }
+
+    .global-wizes .item .content {
+        padding: 22px;
+    }
+}
+
+@media (max-width: 991px) {
+    header nav>ul>li>a {
+        font-size: 10px;
+        padding: 12px;
+
+    }
+
+    .top-header {
+        padding: 15px 0px;
+
+    }
+
+    .home-banner-content .item {
+
+        padding-top: 80px;
+    }
+
+    .home-banner-content h1 {
+
+        font-size: 25px;
+
+    }
+
+    .home-banner-content input {
+
+        padding: 10px;
+
+    }
+
+    .input-container {
+
+        padding: 8px 0px 10px 0px;
+    }
+
+    .input-container button {
+
+        width: 50px;
+        height: 44px;
+        top: 8px;
+    }
+
+    .home-banner-content ul li a {
+
+        font-size: 10px;
+    }
+
+    .trending-wizes .item h4 {
+
+        font-size: 12px;
+
+    }
+
+    .trending-wizes .item p {
+        font-size: 10px;
+
+        margin-bottom: 20px;
+    }
+
+    .trending-wizes .item .content {
+        padding: 22px;
+
+    }
+
+    .trending-wizes .item .content ul {
+
+        font-size: 10px;
+    }
+
+    .read-more-btn {
+
+        font-size: 8px;
+
+        width: 70px;
+        height: 25px;
+
+    }
+
+    .main-heading {
+        font-size: 35px;
+
+    }
+
+    .common-section {
+        padding: 40px 0px;
+    }
+
+    .main-heading-border {
+
+        margin: 14px 0px 25px 0px;
+    }
+
+    .main-events-near .item .content h5 {
+        font-size: 12px;
+
+        margin-bottom: 15px;
+    }
+
+    .main-events-near .item .content li {
+
+        font-size: 10px;
+
+    }
+
+    .mobile-address a,
+    .mobile-address h6 {
+        font-size: 10px;
+
+    }
+
+    .mobile-address {
+
+        gap: 15px;
+        flex-direction: column;
+    }
+
+    .Mompreneur h5 {
+        font-size: 14px;
+
+    }
+
+    .Mompreneur p {
+        font-size: 10px;
+
+        margin: 20px 0px 35px 0px;
+    }
+
+    .latest-post .item h5 {
+        font-size: 13px;
+
+    }
+
+    .latest-post .item .content .main-ul i {
+        font-size: 10px;
+    }
+
+    .latest-post .item .inner-content h6 {
+        font-size: 8px;
+
+    }
+
+    .global-wizes .item .content .social-icon a {
+
+        font-size: 8px;
+    }
+
+    .global-wizes .item .content h6 {
+        font-size: 13px;
+    }
+
+    .global-wizes .item .content .main-ul i {
+        font-size: 10px;
+    }
+
+    .news-letter .main-item-border i {
+
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .news-letter .main-item input {
+
+        font-size: 14px;
+        padding-bottom: 15px;
+
+    }
+
+    footer .ending-footer h4 {
+
+
+        font-size: 18px;
+
+    }
+
+    footer .ending-footer p br {
+        display: none;
+    }
+}
+
+
+@media (max-width: 776px) {
+    header nav>ul>li>a {
+        font-size: 8px;
+        padding: 7px;
+    }
+
+    .home-banner-content h1 {
+        font-size: 22px;
+    }
+
+    .home-banner-content input {
+        padding: 6px;
+        font-size: 12px;
+    }
+
+    .input-container button {
+
+        height: 30px;
+
+    }
+
+    .home-banner-content .item {
+        padding-top: 52px;
+    }
+
+    .input-container {
+        padding: 6px 0px 8px 0px;
+    }
+
+    .input-container button {
+
+        top: 6px;
+    }
+
+    .home-banner-content ul li a {
+        font-size: 8px;
+    }
+
+    .trending-wizes .item .social-icon .icon-Btn {
+        font-size: 6px;
+
+        padding: 5px 4px;
+
+        gap: 2px;
+        justify-content: center;
+
+    }
+
+    .trending-wizes .item .social-icon .outside-icon {
+
+        font-size: 7px;
+    }
+
+    .trending-wizes .item h4 {
+        font-size: 10px;
+    }
+
+    .trending-wizes .item .content {
+        padding: 15px;
+    }
+
+    .trending-wizes .item .content ul {
+        font-size: 8px;
+    }
+
+    .trending-wizes .item p {
+        font-size: 8px;
+
+    }
+
+    .trending-wizes .item .main-read-more .read-more-icon a {
+
+        font-size: 7px;
+    }
+
+    .read-more-btn {
+        font-size: 7px;
+        width: 58px;
+        height: 25px;
+    }
+
+    .main-heading {
+        font-size: 30px;
+    }
+
+    .heading-border-content {
+
+        font-size: 8px;
+
+    }
+
+    .main-events-near h3 {
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    .main-events-near .main-heading-border {
+        justify-content: center;
+    }
+
+    .trending-wizes .item .main-read-more a i {
+        font-size: 7px;
+
+    }
+
+    .trending-wizes .item .main-read-more .read-more-icon a {
+        font-size: 6px;
+    }
+
+    .main-heading-border {
+        margin: 5px 0px 30px 0px;
+    }
+
+    .main-events-near .content {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .main-events-near .things-to-do {
+        margin-top: 50px;
+    }
+
+    .Mompreneur .item::after {
+
+        margin-bottom: 15px;
+    }
+
+    .Mompreneur .explore img {
+        width: 100%;
+    }
+
+    .latest-post .item .full-width-img {
+        width: auto;
+        height: 320px;
+    }
+
+    .latest-post .item {
+        box-shadow: 0px 0px 0px 0px;
+        margin-bottom: 25px;
+        display: flex;
+    }
+
+    .latest-post .item .content {
+        padding: 22px;
+        background-color: #fff;
+        height: 320px;
+        width: 374px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+    .global-wizes .item {
+        display: flex;
+        margin-bottom: 25px;
+    }
+
+    .global-wizes .item .content {
+        padding: 22px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 374px;
+        height: 320px;
+        background: #fff;
+    }
+
+    .news-letter .social-icon ul li i {
+        font-size: 20px;
+    }
+
+    .news-letter .social-icon ul li a {
+
+        font-size: 6px;
+
+    }
+
+
+}
+
+
+@media (max-width: 576px) {
+    .input-container {
+        padding: 30px 0px 50px 0px;
+    }
+
+    .input-container button {
+        top: 30px;
+    }
+
+    .top-header a i {
+        color: #ffffff;
+        margin-left: 8px;
+    }
+
+    .home-banner-content .item {
+        padding: 0;
+    }
+
+    .home-banner-content h1 {
+        font-size: 19px;
+    }
+
+    .top-header .icon button {
+        display: block;
+    }
+
+    .top-header .logo img {
+        width: 120px;
+    }
+
+
+    .top-header .icon {
+        display: flex;
+    }
+
+    .top-header .icon button {
+        width: 35px;
+        margin-left: 8px;
+        background-color: #fff;
+        border: hidden;
+    }
+
+    header nav {
+        position: fixed;
+        height: 100%;
+        max-width: 350px;
+        top: 0;
+        left: -100%;
+        background-color: #382121;
+        transition: 0.3s;
+    }
+
+    header nav ul {
+        display: block;
+    }
+
+    header nav.active {
+        left: 0;
+    }
+
+    header nav>ul>li {
+
+
+        padding-top: 5px;
+        border-right: 0;
+        padding-right: 5px;
+        background-color: #382121;
+    }
+
+}
